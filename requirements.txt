@@ -1,0 +1,13 @@
+streamlit
+matplotlib
+pandas
+numpy
+seaborn
+yfinance
+plotly
+requests
+feedparser
+bs4
+riskfolio-lib
+appdirs
+TextBlob
